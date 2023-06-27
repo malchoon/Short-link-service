@@ -1,0 +1,46 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #000000;
+}
+.main-container{
+    border:3px solid #228B22;
+}
+.main-form-container{
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+.main-form{
+    display: block;
+    height: 30px;
+    width: 100%;
+}
+.container-result{
+    display: block;
+    height: 30px;
+    width: 100%;
+}
+.result{
+    text-align: center;
+    color: #228B22;
+}
+.button-result{
+    height: 30px;
+    width: 100%;
+    align-items: center;
+}
+.main-header{
+    text-align: center;
+    color: #228B22;
+}
+.input-link{
+    height: 20px;
+    width: 200px;
+}
+.input-submit{
+    height: 25px;
+}
+
+
